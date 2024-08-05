@@ -1,0 +1,6 @@
+sort [PARAMS]
+
+    -n Sort as numeric.
+    -r Return sorted data reversed.
+    -d Ignore spaces (directory).
+    -f Ignore letters' cases (fold).
